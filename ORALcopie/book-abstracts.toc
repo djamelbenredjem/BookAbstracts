@@ -1,0 +1,7 @@
+\pagenumbering {roman}
+\contentsline {chapter}{\numberline {}ATOMIC DATA AND PROCESSES. I}{1}{section*.3}%
+\contentsline {section}{\numberline {}{\bf ADP.I1}: NLTE-12, Benford’s Law for Atomic Databases and All That\\ \textit {\underline {Yu. Ralchenko}}}{1}{section*.4}%
+\contentsline {section}{\numberline {}{\bf ADP.I1}: Time-resolved spectroscopy for Z stellar opacity research\\ \textit {\underline {G. P. Loisel}}}{3}{section*.5}%
+\contentsline {section}{\numberline {}{\bf ADP.I3}: Tungsten VUV spectroscopy in WEST tokamak 1-4 keV plasmas\\ \textit {\underline {R. Guirlet}}}{4}{section*.6}%
+\contentsline {section}{\numberline {}{\bf ADP.I4}: High resolution, sub-picosecond x-ray spectroscopy of buried layers heated with high intensity, short pulse lasers\\ \textit {\underline {R. Shepherd}}}{5}{section*.7}%
+\contentsline {chapter}{\numberline {}Author Index}{6}{section*.8}%
